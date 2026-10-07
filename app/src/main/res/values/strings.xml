@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Text Repeater</string>
+    <string name="title_home">Text Repeater</string>
+    <string name="title_repeat_text">Repeat Text</string>
+    <string name="btn_repeat_text">Repeat Text →</string>
+    <string name="btn_saved_text">Saved Text ♥</string>
+    <string name="section_quick_repeats">⚡ Quick Repeats</string>
+    <string name="section_recents">🕘 Recents</string>
+    <string name="btn_more">More →</string>
+    <string name="label_enter_text">Aa Enter Text</string>
+    <string name="label_repetition">↔ Repetition</string>
+    <string name="checkbox_new_line">Repeat in New line</string>
+    <string name="btn_do_repeat">✓ Repeat Text</string>
+    <string name="btn_stylize">🖌 Stylize Text</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_keyboard">⌨ Keyboard</string>
+</resources>

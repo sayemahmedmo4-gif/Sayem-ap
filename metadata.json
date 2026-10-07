@@ -1,0 +1,6 @@
+{
+  "name": "Text Repeater",
+  "description": "Fast offline text repeater supporting English, Bangla, and emoji text with quick repeats and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
